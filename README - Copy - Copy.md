@@ -1,8 +1,4 @@
-
-# testA
-=======
-# test1
-
+# test
 repo for testing GitHub setup
 testing
 changing something
